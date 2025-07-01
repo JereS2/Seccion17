@@ -7,6 +7,4 @@ while True:
         break 
     except:
         print("Ingrese valores enteros.")
-
-
 print(sumar(n1,n2))
